@@ -34,16 +34,16 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
+#  - title: dribbble
+ #   url:
   - title: facebook
-    url:
+    url:"https://www.facebook.com/spreefortythree"
   - title: twitter
-    url:
+    url: "https://twitter.com/spreefortythree"
   - title: instagram
-    url: "instagram.com/spreefortythree/"
-  - title: tumblr
-    url:
+    url: "https://www.instagram.com/spreefortythree/"
+  #- title: tumblr
+   # url:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
