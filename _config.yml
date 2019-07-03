@@ -1,11 +1,11 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: SPREE FORTY THREE
+description: "Apps that pop!"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "https://spreefortythree.com"
 
 # Build settings
 markdown: kramdown
@@ -13,13 +13,13 @@ permalink: /:categories/:title/
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#00b3fe" #"#F70031"
-  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
-  secondary: "#384452" #"#33004D"
-  link: "#428bca"
-  link_hover: "#01b2fe"
+  primary: "#cddc39" #"#F70031"
+  primary_rgb: "205,220,57" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
+  secondary: "#56764e" #"#33004D"
+  link: "#cddc39"
+  link_hover: "#56764e"
   footer_heading: "#ffffff"
-  footer_content: "#bfc9d3"
+  footer_content: "#cddc39"
 
 # Making projects separate from posts
 collections:
@@ -41,7 +41,7 @@ social:
   - title: twitter
     url:
   - title: instagram
-    url:
+    url: "instagram.com/spreefortythree/"
   - title: tumblr
     url:
 
