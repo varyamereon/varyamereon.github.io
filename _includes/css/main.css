@@ -110,7 +110,7 @@ a:focus {
 }
 
 .navbar-brand {
-	font-family: 'bottle_depotregular', 'Raleway' sans-serif;
+	font-family: 'bottle_depotregular', 'Raleway', sans-serif;
 	font-weight: 900;
 }
 
