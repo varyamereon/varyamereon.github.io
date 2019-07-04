@@ -5,7 +5,7 @@ title: Spree Forty Three
 description: "Apps that pop!"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "https://spreefortythree.com"
+url: "https://varyamereon.github.io/"
 
 # Build settings
 markdown: kramdown
