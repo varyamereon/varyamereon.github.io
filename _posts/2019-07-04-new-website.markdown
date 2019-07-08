@@ -7,8 +7,8 @@ categories:
 - blog
 - Company
 - PilotFriendly
-img: post02.jpg
-thumb: thumb02.jpg
+img: post01.png
+thumb: thumb01.png
 ---
 
 <b>Welcome to</b> our new website and we would write some more text here.
