@@ -104,7 +104,7 @@ clients:
     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "We started developing aviation apps for Windows in 2015. Now we are working on all kinds of apps that we are passionate about, for Windows, iOS and Android. All from the wonderful city of Berlin."
+about: "We started developing aviation apps in 2015. Now we are working on all kinds of apps that we are passionate about, for Windows, iOS and Android. All from the wonderful city of Berlin."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
