@@ -448,12 +448,12 @@ csmall {
 
 /* Contact Page */
 #contactwrap {
-	background: url(../img/contact-preview2.jpg) no-repeat center top;
+	background: url(../img/testimonial-preview.jpg) no-repeat center top;
 	margin-top: -60px;
 	padding-top:0px;
 	text-align:center;
 	background-attachment: relative;
-	background-position: center center;
+	background-position: center bottom;
 	min-height: 320px;
 	width: 100%;
 	
