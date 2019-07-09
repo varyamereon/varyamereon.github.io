@@ -4,16 +4,15 @@ title: "Pilot Friendly joins Spree Forty Three"
 date: 2019-07-08 19:01:00
 author: Will
 categories:
-- blog
-- SpreeFortyThree
-- PilotFriendly
+- spreeFortyThree
+- pilotFriendly
 img: post01.png
 thumb: thumb01.png
 ---
 
 <b>We hope</b> you like what we've done with the place! Pilot Friendly is joining Spree Forty Three, and if you'll indulge me, here are a few reasons why...
 
-#### A short history lesson
+#### A short history
  Pilot Friendly has been around since 2015, a time when Windows Phone was still a thing and UWP was the next big thing for Microsoft. At the same time, EASA FTLs were being introduced in the aviation sector, and as an avid Windows Phone user I saw a gap in the market, and developed our first app, EASA FTL Calculator. Next came along Flight Deck Weather, which continues to be a very popular aviation weather app in the Microsoft Store.
 
 #### Android and iOS join the party
