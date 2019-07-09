@@ -4,6 +4,7 @@ title: "Pilot Friendly joins Spree Forty Three"
 date: 2019-07-08 19:01:00
 author: Will
 categories:
+- blog
 - spreeFortyThree
 - pilotFriendly
 img: post01.png
