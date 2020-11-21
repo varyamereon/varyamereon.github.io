@@ -4,10 +4,11 @@
         "details": [
             {
                 "appID": "C7BK8M93WD.com.spreefortythree.aviatorlogbook",
-                "components": [
+                "paths": [
                     {
                     "/": "/aviatorlogbook/*",
                     "comment": "Matches any URL whose path starts with /aviatorlogbook/"
+                    },
                 ]
             }
         ]
