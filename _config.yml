@@ -6,6 +6,7 @@ description: "Apps that pop!"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://www.spreefortythree.com/"
+include: [".well-known"]
 
 # Build settings
 markdown: kramdown
