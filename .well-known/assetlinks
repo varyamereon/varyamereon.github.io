@@ -17,7 +17,7 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.spreefortythree.logbook",
+            "package_name": "com.spreefortythree.logbook.debug",
             "sha256_cert_fingerprints": [
                 "DF:5B:03:99:18:45:FB:C6:0E:89:6B:3F:83:EE:2E:D2:E1:E3:0B:CE:40:9E:91:64:37:4C:23:B4:35:26:B7:07"
             ]
