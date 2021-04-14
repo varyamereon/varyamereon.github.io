@@ -1,25 +1,26 @@
 [
-   {
-      "relation":[
-         "delegate_permission/common.handle_all_urls"
-      ],
-      "target":{
-         "namespace":"android_app",
-         "package_name":"com.spreefortythree.logbook",
-         "sha256_cert_fingerprints":[
-            "7B:77:27:08:96:39:9A:C2:F6:36:5F:CF:04:9B:42:C5:E1:43:05:70:BB:F9:83:36:02:65:2C:47:B1:A6:87:57"
-         ]
-      }
-   },
-   {
-      "relation": [
-         "delegate_permission/common.handle_all_urls"
-      ],
-      "target" : { 
-         "namespace": "android_app", 
-         "package_name": "com.spreefortythree.logbook",
-         "sha256_cert_fingerprints": [
-            "DF:5B:03:99:18:45:FB:C6:0E:89:6B:3F:83:EE:2E:D2:E1:E3:0B:CE:40:9E:91:64:37:4C:23:B4:35:26:B7:07"
-        ] 
-     }
-}]
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.spreefortythree.logbook",
+            "sha256_cert_fingerprints": [
+                "7B:77:27:08:96:39:9A:C2:F6:36:5F:CF:04:9B:42:C5:E1:43:05:70:BB:F9:83:36:02:65:2C:47:B1:A6:87:57"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.spreefortythree.logbook",
+            "sha256_cert_fingerprints": [
+                "DF:5B:03:99:18:45:FB:C6:0E:89:6B:3F:83:EE:2E:D2:E1:E3:0B:CE:40:9E:91:64:37:4C:23:B4:35:26:B7:07"
+            ]
+        }
+    }
+]
