@@ -1,0 +1,14 @@
+[
+   {
+      "relation":[
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{
+         "namespace":"android_app",
+         "package_name":"com.spreefortythree.logbook",
+         "sha256_cert_fingerprints":[
+            "7B:77:27:08:96:39:9A:C2:F6:36:5F:CF:04:9B:42:C5:E1:43:05:70:BB:F9:83:36:02:65:2C:47:B1:A6:87:57"
+         ]
+      }
+   }
+]
